@@ -17,9 +17,8 @@ Just link you img on script with parameters
 
 * **Anton Gayduk** - *Initial work* - [kct](https://kctrud.ru)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the GNU v.3 License - see the [LICENSE](LICENSE) file for details
+
 For examples use Google Fonts - OpenSans.
