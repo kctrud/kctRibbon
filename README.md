@@ -10,7 +10,7 @@ Copy kctRibbon folder to you project
 Just link you img on script with parameters
 
 ```
-<img src="">
+<img src="/kctRibbon/special_status.php?s=kctRibbon" alt="">
 ```
 
 ## Authors
