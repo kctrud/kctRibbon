@@ -4,13 +4,15 @@ PHP Special offer ribon (*.png) Generator with random template background
 ![alt text](https://24-ok.ru/images/special_status/special_status.php?status=6)
 
 # Getting Started
-Copy kctRibbon folder to you project
+Add kctRibbon folder to you project
 
 # Example
-Just link you img on script with parameters
+Just link you img or background-image on script with parameters
 
 ```
 <img src="/kctRibbon/special_status.php?s=kctRibbon" alt="">
+
+style="bacground-image:url(/kctRibbon/special_status.php?s=kctRibbon)"
 ```
 
 ## Authors
