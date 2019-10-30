@@ -12,7 +12,7 @@ Just link you img or background-image on script with parameters
 ```
 <img src="/kctRibbon/special_status.php?s=kctRibbon" alt="">
 
-style="bacground-image:url(/kctRibbon/special_status.php?s=kctRibbon)"
+<div style="bacground-image:url(/kctRibbon/special_status.php?s=kctRibbon);width: 300px;height: 105px;"></div>
 ```
 
 ## Authors
